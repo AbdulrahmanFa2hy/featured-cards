@@ -16,7 +16,7 @@ function App() {
         {/* Header */}
         <div className="mb-10">
           <h1
-            className="text-4xl font-semibold text-white mb-4 tracking-tight"
+            className="text-4xl font-semibold text-white mb-4 tracking-tight "
           >
             How We Keep You Ahead®
           </h1>
